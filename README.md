@@ -30,7 +30,5 @@ new_generated_password = new_pass(length here)
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adhir-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir-serrano" height="30" width="40" /></a>
-<a><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-<a><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  /></a>
 </p>
 <p align="right" > Created with 🧡 by <a href="https://github.com/adhir2099">Adhir2099</a></p>
